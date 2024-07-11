@@ -5,6 +5,7 @@ I'm a passionate **Software Engineer** with experience in crafting mobile soluti
 ## 🚀 Highlights:
 
 * Android & iOS App Developer 💻📱
+* Flutter Developer 📱
 * Continuous Learner 📚
 * Coding Enthusiast 💡
 
