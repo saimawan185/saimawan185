@@ -74,7 +74,7 @@ I'm a passionate **Software Engineer** crafting mobile solutions for both **Andr
 
 <tr>
 <td>🌲 <b>WildVision</b></td>
-<td align="center"><i>Camera & AI</i></td>
+<td align="center"><i>Hunting app for New Zealand</i></td>
 <td align="center">
 <a href="https://play.google.com/store/apps/details?id=com.WildVision.wild_vision_app" target="_blank" rel="noopener noreferrer"><img height="26" src="https://img.shields.io/badge/-Play%20Store-414141?style=flat-square&logo=googleplay&logoColor=00c6ff"/></a>
 <a href="https://apps.apple.com/us/app/wildvision/id6751607406" target="_blank" rel="noopener noreferrer"><img height="26" src="https://img.shields.io/badge/-App%20Store-414141?style=flat-square&logo=apple&logoColor=white"/></a>
@@ -83,7 +83,7 @@ I'm a passionate **Software Engineer** crafting mobile solutions for both **Andr
 
 <tr>
 <td>☪️ <b>Falah Islamic App</b></td>
-<td align="center"><i>Lifestyle</i></td>
+<td align="center"><i>Islamic App/Lifestyle</i></td>
 <td align="center">
 <a href="https://play.google.com/store/apps/details?id=com.thefalahapp.io" target="_blank" rel="noopener noreferrer"><img height="26" src="https://img.shields.io/badge/-Play%20Store-414141?style=flat-square&logo=googleplay&logoColor=00c6ff"/></a>
 <a href="https://apps.apple.com/us/app/falah-app/id6479693756" target="_blank" rel="noopener noreferrer"><img height="26" src="https://img.shields.io/badge/-App%20Store-414141?style=flat-square&logo=apple&logoColor=white"/></a>
