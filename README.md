@@ -65,57 +65,78 @@ I'm a passionate **Software Engineer** crafting mobile solutions for both **Andr
 ### 💼 Client Apps
 
 <div align="center">
+<table>
+<tr>
+<th align="left">App</th>
+<th align="center">Category</th>
+<th align="center">Get it on</th>
+</tr>
 
-**WildVision**
-<br/>
-<a href="https://play.google.com/store/apps/details?id=com.WildVision.wild_vision_app" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Play%20Store-414141?style=for-the-badge&logo=googleplay&logoColor=white"/></a>
-<a href="https://apps.apple.com/us/app/wildvision/id6751607406" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/App%20Store-000000?style=for-the-badge&logo=apple&logoColor=white"/></a>
+<tr>
+<td>🌲 <b>WildVision</b></td>
+<td align="center"><i>Camera & AI</i></td>
+<td align="center">
+<a href="https://play.google.com/store/apps/details?id=com.WildVision.wild_vision_app" target="_blank" rel="noopener noreferrer"><img height="26" src="https://img.shields.io/badge/-Play%20Store-414141?style=flat-square&logo=googleplay&logoColor=00c6ff"/></a>
+<a href="https://apps.apple.com/us/app/wildvision/id6751607406" target="_blank" rel="noopener noreferrer"><img height="26" src="https://img.shields.io/badge/-App%20Store-414141?style=flat-square&logo=apple&logoColor=white"/></a>
+</td>
+</tr>
 
-<br/><br/>
+<tr>
+<td>☪️ <b>Falah Islamic App</b></td>
+<td align="center"><i>Lifestyle</i></td>
+<td align="center">
+<a href="https://play.google.com/store/apps/details?id=com.thefalahapp.io" target="_blank" rel="noopener noreferrer"><img height="26" src="https://img.shields.io/badge/-Play%20Store-414141?style=flat-square&logo=googleplay&logoColor=00c6ff"/></a>
+<a href="https://apps.apple.com/us/app/falah-app/id6479693756" target="_blank" rel="noopener noreferrer"><img height="26" src="https://img.shields.io/badge/-App%20Store-414141?style=flat-square&logo=apple&logoColor=white"/></a>
+</td>
+</tr>
 
-**Falah Islamic App**
-<br/>
-<a href="https://play.google.com/store/apps/details?id=com.thefalahapp.io" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Play%20Store-414141?style=for-the-badge&logo=googleplay&logoColor=white"/></a>
-<a href="https://apps.apple.com/us/app/falah-app/id6479693756" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/App%20Store-000000?style=for-the-badge&logo=apple&logoColor=white"/></a>
+<tr>
+<td>💍 <b>OnlyNikkah</b></td>
+<td align="center"><i>Social / Matrimony</i></td>
+<td align="center">
+<a href="https://play.google.com/store/apps/details?id=com.hyxio.only_nikkah" target="_blank" rel="noopener noreferrer"><img height="26" src="https://img.shields.io/badge/-Play%20Store-414141?style=flat-square&logo=googleplay&logoColor=00c6ff"/></a>
+<a href="https://apps.apple.com/us/app/onlynikkah-halal-dating-app/id6479748054" target="_blank" rel="noopener noreferrer"><img height="26" src="https://img.shields.io/badge/-App%20Store-414141?style=flat-square&logo=apple&logoColor=white"/></a>
+</td>
+</tr>
 
-<br/><br/>
+<tr>
+<td>🍔 <b>DoorDelights</b></td>
+<td align="center"><i>Food Delivery</i></td>
+<td align="center">
+<a href="https://play.google.com/store/apps/details?id=com.doordelights.customer" target="_blank" rel="noopener noreferrer"><img height="26" src="https://img.shields.io/badge/-Play%20Store-414141?style=flat-square&logo=googleplay&logoColor=00c6ff"/></a>
+<a href="https://apps.apple.com/us/app/doordelights/id6737221336" target="_blank" rel="noopener noreferrer"><img height="26" src="https://img.shields.io/badge/-App%20Store-414141?style=flat-square&logo=apple&logoColor=white"/></a>
+</td>
+</tr>
 
-**OnlyNikkah**
-<br/>
-<a href="https://play.google.com/store/apps/details?id=com.hyxio.only_nikkah" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Play%20Store-414141?style=for-the-badge&logo=googleplay&logoColor=white"/></a>
-<a href="https://apps.apple.com/us/app/onlynikkah-halal-dating-app/id6479748054" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/App%20Store-000000?style=for-the-badge&logo=apple&logoColor=white"/></a>
+<tr>
+<td>🎸 <b>Shimobe Music</b></td>
+<td align="center"><i>Music & Learning</i></td>
+<td align="center">
+<a href="https://play.google.com/store/apps/details?id=com.shimobe.music" target="_blank" rel="noopener noreferrer"><img height="26" src="https://img.shields.io/badge/-Play%20Store-414141?style=flat-square&logo=googleplay&logoColor=00c6ff"/></a>
+<a href="https://apps.apple.com/us/app/shimobe-guitar/id6748067906" target="_blank" rel="noopener noreferrer"><img height="26" src="https://img.shields.io/badge/-App%20Store-414141?style=flat-square&logo=apple&logoColor=white"/></a>
+</td>
+</tr>
 
-<br/><br/>
+<tr>
+<td>🩺 <b>SegaHealth</b></td>
+<td align="center"><i>Health & Fitness</i></td>
+<td align="center">
+<a href="https://play.google.com/store/apps/details?id=com.fitness.sega_health" target="_blank" rel="noopener noreferrer"><img height="26" src="https://img.shields.io/badge/-Play%20Store-414141?style=flat-square&logo=googleplay&logoColor=00c6ff"/></a>
+<a href="https://apps.apple.com/us/app/segahealth/id6751970064" target="_blank" rel="noopener noreferrer"><img height="26" src="https://img.shields.io/badge/-App%20Store-414141?style=flat-square&logo=apple&logoColor=white"/></a>
+</td>
+</tr>
 
-**DoorDelights**
-<br/>
-<a href="https://play.google.com/store/apps/details?id=com.doordelights.customer" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Play%20Store-414141?style=for-the-badge&logo=googleplay&logoColor=white"/></a>
-<a href="https://apps.apple.com/us/app/doordelights/id6737221336" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/App%20Store-000000?style=for-the-badge&logo=apple&logoColor=white"/></a>
+<tr>
+<td>✨ <b>Quotes & Motivations</b></td>
+<td align="center"><i>Lifestyle</i></td>
+<td align="center">
+<a href="https://play.google.com/store/apps/details?id=com.jokerdiary.joker_diary" target="_blank" rel="noopener noreferrer"><img height="26" src="https://img.shields.io/badge/-Play%20Store-414141?style=flat-square&logo=googleplay&logoColor=00c6ff"/></a>
+</td>
+</tr>
 
-<br/><br/>
+</table>
 
-**Shimobe Music**
-<br/>
-<a href="https://play.google.com/store/apps/details?id=com.shimobe.music" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Play%20Store-414141?style=for-the-badge&logo=googleplay&logoColor=white"/></a>
-<a href="https://apps.apple.com/us/app/shimobe-guitar/id6748067906" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/App%20Store-000000?style=for-the-badge&logo=apple&logoColor=white"/></a>
-
-<br/><br/>
-
-**SegaHealth**
-<br/>
-<a href="https://play.google.com/store/apps/details?id=com.fitness.sega_health" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Play%20Store-414141?style=for-the-badge&logo=googleplay&logoColor=white"/></a>
-<a href="https://apps.apple.com/us/app/segahealth/id6751970064" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/App%20Store-000000?style=for-the-badge&logo=apple&logoColor=white"/></a>
-
-<br/><br/>
-
-**Quotes & Motivations**
-<br/>
-<a href="https://play.google.com/store/apps/details?id=com.jokerdiary.joker_diary" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Play%20Store-414141?style=for-the-badge&logo=googleplay&logoColor=white"/></a>
-
-<br/><br/>
-
-**...and many more! 🚀**
-
+<sub><b>...and many more! 🚀</b></sub>
 </div>
 
 ---
@@ -130,6 +151,7 @@ I'm a passionate **Software Engineer** crafting mobile solutions for both **Andr
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
@@ -141,7 +163,7 @@ I'm a passionate **Software Engineer** crafting mobile solutions for both **Andr
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Lovable](https://img.shields.io/badge/Lovable-FF6154?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white)
+![Lovable](https://img.shields.io/badge/❤️%20Lovable-FF6154?style=for-the-badge&logoColor=white)
 ![FlutterFlow](https://img.shields.io/badge/FlutterFlow-4B39EF?style=for-the-badge&logo=flutter&logoColor=white)
 
 </div>
