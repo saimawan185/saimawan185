@@ -74,7 +74,7 @@ I'm a passionate **Software Engineer** crafting mobile solutions for both **Andr
 
 <tr>
 <td>🌲 <b>WildVision</b></td>
-<td align="center"><i>Hunting app for New Zealand</i></td>
+<td align="center"><i>Hunting App for NewZealand</i></td>
 <td align="center">
 <a href="https://play.google.com/store/apps/details?id=com.WildVision.wild_vision_app" target="_blank" rel="noopener noreferrer"><img height="26" src="https://img.shields.io/badge/-Play%20Store-414141?style=flat-square&logo=googleplay&logoColor=00c6ff"/></a>
 <a href="https://apps.apple.com/us/app/wildvision/id6751607406" target="_blank" rel="noopener noreferrer"><img height="26" src="https://img.shields.io/badge/-App%20Store-414141?style=flat-square&logo=apple&logoColor=white"/></a>
@@ -163,6 +163,8 @@ I'm a passionate **Software Engineer** crafting mobile solutions for both **Andr
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![AI Studio](https://img.shields.io/badge/AI%20Studio-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Lovable](https://img.shields.io/badge/❤️%20Lovable-FF6154?style=for-the-badge&logoColor=white)
 ![FlutterFlow](https://img.shields.io/badge/FlutterFlow-4B39EF?style=for-the-badge&logo=flutter&logoColor=white)
 
@@ -206,6 +208,9 @@ I'm a passionate **Software Engineer** crafting mobile solutions for both **Andr
 </a>
 <a href="https://www.behance.net/awanmsaim182" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/>
+</a>
+<a href="https://www.youtube.com/@codeswithmsaimawan" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 <a href="https://www.fiverr.com/saimawan185" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/>
