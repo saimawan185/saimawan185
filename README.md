@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Muhammad%20Saim&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Mobile%20App%20Developer&descAlignY=58&descSize=20" width="100%"/>
 
-<a href="https://www.linkedin.com/in/muhammad-saim-5bab731bb/">
+<a href="https://www.linkedin.com/in/muhammad-saim-5bab731bb/" target="_blank" rel="noopener noreferrer">
   <img src="https://readme-typing-svg.demolab.com/?lines=Flutter+%26+Mobile+App+Developer;Android+%7C+iOS+%7C+Cross-Platform;Turning+Ideas+Into+Real+Apps+%F0%9F%9A%80;Open+for+Remote+Work+%26+Collaborations!&font=Fira+Code&center=true&width=600&height=50&color=00C6FF&vCenter=true&size=22&pause=1000" />
 </a>
 
@@ -38,25 +38,83 @@ I'm a passionate **Software Engineer** crafting mobile solutions for both **Andr
 
 ---
 
-### 📱 Published Apps
+### 📱 My Own Apps
 
 <div align="center">
 
-<a href="https://play.google.com/store/apps/details?id=com.tetratech.agecalculator.birthdaytracker">
+<a href="https://play.google.com/store/apps/details?id=com.tetratech.agecalculator.birthdaytracker" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Age%20Calculator-Google%20Play-2c5364?style=for-the-badge&logo=googleplay&logoColor=white"/>
 </a>
-<a href="https://play.google.com/store/apps/details?id=com.noorislamic.app">
+<a href="https://play.google.com/store/apps/details?id=com.noorislamic.app" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Noor%20Islamic%20App-Google%20Play-0f2027?style=for-the-badge&logo=googleplay&logoColor=white"/>
 </a>
-<a href="https://play.google.com/store/apps/details?id=ccom.tetratech.quickchat_whatsapp">
+<a href="https://play.google.com/store/apps/details?id=ccom.tetratech.quickchat_whatsapp" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/QuickChat-Google%20Play-00c6ff?style=for-the-badge&logo=googleplay&logoColor=white"/>
 </a>
 
 <br/>
 
-<a href="https://play.google.com/store/apps/dev?id=5554135620119363704">
+<a href="https://play.google.com/store/apps/dev?id=5554135620119363704" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/View%20All%20Apps-Play%20Console-34A853?style=for-the-badge&logo=googleplay&logoColor=white"/>
 </a>
+
+</div>
+
+---
+
+### 💼 Client Apps
+
+<div align="center">
+
+**WildVision**
+<br/>
+<a href="https://play.google.com/store/apps/details?id=com.WildVision.wild_vision_app" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Play%20Store-414141?style=for-the-badge&logo=googleplay&logoColor=white"/></a>
+<a href="https://apps.apple.com/us/app/wildvision/id6751607406" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/App%20Store-000000?style=for-the-badge&logo=apple&logoColor=white"/></a>
+
+<br/><br/>
+
+**Falah Islamic App**
+<br/>
+<a href="https://play.google.com/store/apps/details?id=com.thefalahapp.io" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Play%20Store-414141?style=for-the-badge&logo=googleplay&logoColor=white"/></a>
+<a href="https://apps.apple.com/us/app/falah-app/id6479693756" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/App%20Store-000000?style=for-the-badge&logo=apple&logoColor=white"/></a>
+
+<br/><br/>
+
+**OnlyNikkah**
+<br/>
+<a href="https://play.google.com/store/apps/details?id=com.hyxio.only_nikkah" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Play%20Store-414141?style=for-the-badge&logo=googleplay&logoColor=white"/></a>
+<a href="https://apps.apple.com/us/app/onlynikkah-halal-dating-app/id6479748054" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/App%20Store-000000?style=for-the-badge&logo=apple&logoColor=white"/></a>
+
+<br/><br/>
+
+**DoorDelights**
+<br/>
+<a href="https://play.google.com/store/apps/details?id=com.doordelights.customer" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Play%20Store-414141?style=for-the-badge&logo=googleplay&logoColor=white"/></a>
+<a href="https://apps.apple.com/us/app/doordelights/id6737221336" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/App%20Store-000000?style=for-the-badge&logo=apple&logoColor=white"/></a>
+
+<br/><br/>
+
+**Shimobe Music**
+<br/>
+<a href="https://play.google.com/store/apps/details?id=com.shimobe.music" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Play%20Store-414141?style=for-the-badge&logo=googleplay&logoColor=white"/></a>
+<a href="https://apps.apple.com/us/app/shimobe-guitar/id6748067906" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/App%20Store-000000?style=for-the-badge&logo=apple&logoColor=white"/></a>
+
+<br/><br/>
+
+**SegaHealth**
+<br/>
+<a href="https://play.google.com/store/apps/details?id=com.fitness.sega_health" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Play%20Store-414141?style=for-the-badge&logo=googleplay&logoColor=white"/></a>
+<a href="https://apps.apple.com/us/app/segahealth/id6751970064" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/App%20Store-000000?style=for-the-badge&logo=apple&logoColor=white"/></a>
+
+<br/><br/>
+
+**Quotes & Motivations**
+<br/>
+<a href="https://play.google.com/store/apps/details?id=com.jokerdiary.joker_diary" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Play%20Store-414141?style=for-the-badge&logo=googleplay&logoColor=white"/></a>
+
+<br/><br/>
+
+**...and many more! 🚀**
 
 </div>
 
@@ -72,10 +130,19 @@ I'm a passionate **Software Engineer** crafting mobile solutions for both **Andr
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+### 🧑‍💻 Tools & IDEs
+
+<div align="center">
+
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Lovable](https://img.shields.io/badge/Lovable-FF6154?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white)
+![FlutterFlow](https://img.shields.io/badge/FlutterFlow-4B39EF?style=for-the-badge&logo=flutter&logoColor=white)
 
 </div>
 
@@ -92,8 +159,6 @@ I'm a passionate **Software Engineer** crafting mobile solutions for both **Andr
 
 </div>
 
-> ⚠️ Note: replace `saimawan185` above with your exact **GitHub username** (not Fiverr) so the stats cards load correctly.
-
 ---
 
 ### 📈 Contribution Graph
@@ -108,28 +173,28 @@ I'm a passionate **Software Engineer** crafting mobile solutions for both **Andr
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/muhammad-saim-5bab731bb/">
+<a href="https://www.linkedin.com/in/muhammad-saim-5bab731bb/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://www.instagram.com/msaimawan/">
+<a href="https://www.instagram.com/msaimawan/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-<a href="https://www.facebook.com/codeswithmsaimawan">
+<a href="https://www.facebook.com/codeswithmsaimawan" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
-<a href="https://www.behance.net/awanmsaim182">
+<a href="https://www.behance.net/awanmsaim182" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/>
 </a>
-<a href="https://www.fiverr.com/saimawan185">
+<a href="https://www.fiverr.com/saimawan185" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/>
 </a>
-<a href="https://www.upwork.com/freelancers/~0143f7baa14a5e2bc8?mp_source=share">
+<a href="https://www.upwork.com/freelancers/~0143f7baa14a5e2bc8?mp_source=share" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/>
 </a>
-<a href="mailto:awanmsaim182@gmail.com">
+<a href="mailto:awanmsaim182@gmail.com" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://wa.me/923164168178">
+<a href="https://wa.me/923164168178" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
