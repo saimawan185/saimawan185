@@ -11,6 +11,13 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=saimawan185&color=00c6ff&style=for-the-badge&label=PROFILE+VIEWS)
 ![GitHub followers](https://img.shields.io/github/followers/saimawan185?label=Followers&style=for-the-badge&color=2c5364)
 
+<a href="https://github.com/saimawan185" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://saimawan185.github.io/msaimawan.dev/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Portfolio-00c6ff?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
 </div>
 
 ---
@@ -32,9 +39,17 @@ I'm a passionate **Software Engineer** crafting mobile solutions for both **Andr
 | Project | Description |
 |---|---|
 | 🧾 **ShopLedger** | Simple invoicing & customer management app for small businesses |
-| 🎥 **SyfPlus** | TikTok/Instagram-style social app with reels, posts & live streaming |
-| 🚗 **Smooth Drop** | Uber-like ride-hailing app for smooth, on-demand travel |
-| 🍔 **DoorDelights** | DoorDash/Foodpanda-style food delivery app connecting stores & customers |
+| 🗣️ **Language Tutor App** | AI-assisted app for learning new languages through interactive lessons and practice |
+
+---
+
+### 🎓 Education
+
+| Degree | Institution | Score | Years |
+|---|---|---|---|
+| 🏅 **BS Computer Science** — *Gold Medalist* | University of South Asia, Lahore | CGPA 3.83 / 4.0 | 2019 – 2023 |
+| **F.Sc Pre-Engineering** | Punjab College, Lahore | 73.82% | 2017 – 2019 |
+| **Matriculation in Computer Science** | M.A Model High School | 82.27% | 2015 – 2017 |
 
 ---
 
@@ -109,6 +124,24 @@ I'm a passionate **Software Engineer** crafting mobile solutions for both **Andr
 </tr>
 
 <tr>
+<td>🚗 <b>Smooth Drop</b></td>
+<td align="center"><i>Ride-Hailing</i></td>
+<td align="center">
+<a href="https://play.google.com/store/apps/details?id=com.smooth.drop" target="_blank" rel="noopener noreferrer"><img height="26" src="https://img.shields.io/badge/-Play%20Store-414141?style=flat-square&logo=googleplay&logoColor=00c6ff"/></a>
+<a href="https://apps.apple.com/us/app/smoothdrop-request-a-ride/id6754243436" target="_blank" rel="noopener noreferrer"><img height="26" src="https://img.shields.io/badge/-App%20Store-414141?style=flat-square&logo=apple&logoColor=white"/></a>
+</td>
+</tr>
+
+<tr>
+<td>🎥 <b>SyfPlus</b></td>
+<td align="center"><i>Social Media</i></td>
+<td align="center">
+<a href="https://play.google.com/store/apps/details?id=com.sauti.faraja" target="_blank" rel="noopener noreferrer"><img height="26" src="https://img.shields.io/badge/-Play%20Store-414141?style=flat-square&logo=googleplay&logoColor=00c6ff"/></a>
+<a href="https://apps.apple.com/us/app/syf-plus/id6770406459" target="_blank" rel="noopener noreferrer"><img height="26" src="https://img.shields.io/badge/-App%20Store-414141?style=flat-square&logo=apple&logoColor=white"/></a>
+</td>
+</tr>
+
+<tr>
 <td>🎸 <b>Shimobe Music</b></td>
 <td align="center"><i>Music & Learning</i></td>
 <td align="center">
@@ -123,6 +156,14 @@ I'm a passionate **Software Engineer** crafting mobile solutions for both **Andr
 <td align="center">
 <a href="https://play.google.com/store/apps/details?id=com.fitness.sega_health" target="_blank" rel="noopener noreferrer"><img height="26" src="https://img.shields.io/badge/-Play%20Store-414141?style=flat-square&logo=googleplay&logoColor=00c6ff"/></a>
 <a href="https://apps.apple.com/us/app/segahealth/id6751970064" target="_blank" rel="noopener noreferrer"><img height="26" src="https://img.shields.io/badge/-App%20Store-414141?style=flat-square&logo=apple&logoColor=white"/></a>
+</td>
+</tr>
+
+<tr>
+<td>🛒 <b>Kalam Dawat</b></td>
+<td align="center"><i>Local E-Commerce App</i></td>
+<td align="center">
+<a href="https://play.google.com/store/apps/details?id=com.kalamdawat.kalam_dawaat" target="_blank" rel="noopener noreferrer"><img height="26" src="https://img.shields.io/badge/-Play%20Store-414141?style=flat-square&logo=googleplay&logoColor=00c6ff"/></a>
 </td>
 </tr>
 
@@ -197,6 +238,12 @@ I'm a passionate **Software Engineer** crafting mobile solutions for both **Andr
 
 <div align="center">
 
+<a href="https://saimawan185.github.io/msaimawan.dev/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Portfolio%20Website-00c6ff?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+<a href="https://github.com/saimawan185" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 <a href="https://www.linkedin.com/in/muhammad-saim-5bab731bb/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
