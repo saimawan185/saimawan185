@@ -142,11 +142,20 @@ I'm a passionate **Software Engineer** crafting mobile solutions for both **Andr
 </tr>
 
 <tr>
-<td>🎸 <b>Shimobe Music</b></td>
+<td>🎸 <b>Shimobe Guitar</b></td>
 <td align="center"><i>Music & Learning</i></td>
 <td align="center">
 <a href="https://play.google.com/store/apps/details?id=com.shimobe.music" target="_blank" rel="noopener noreferrer"><img height="26" src="https://img.shields.io/badge/-Play%20Store-414141?style=flat-square&logo=googleplay&logoColor=00c6ff"/></a>
 <a href="https://apps.apple.com/us/app/shimobe-guitar/id6748067906" target="_blank" rel="noopener noreferrer"><img height="26" src="https://img.shields.io/badge/-App%20Store-414141?style=flat-square&logo=apple&logoColor=white"/></a>
+</td>
+</tr>
+
+<tr>
+<td>🏫 <b>Shimobe MyClass</b></td>
+<td align="center"><i>Class, Student & Teacher Management</i></td>
+<td align="center">
+<a href="https://play.google.com/store/apps/details?id=com.shimobe.shimobe_myclass" target="_blank" rel="noopener noreferrer"><img height="26" src="https://img.shields.io/badge/-Play%20Store-414141?style=flat-square&logo=googleplay&logoColor=00c6ff"/></a>
+<a href="https://apps.apple.com/us/app/shimobe-myclass/id6752947488" target="_blank" rel="noopener noreferrer"><img height="26" src="https://img.shields.io/badge/-App%20Store-414141?style=flat-square&logo=apple&logoColor=white"/></a>
 </td>
 </tr>
 
