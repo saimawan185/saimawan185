@@ -247,7 +247,7 @@ I'm a passionate **Software Engineer** crafting mobile solutions for both **Andr
 
 <div align="center">
 
-<a href="https://saimawan185.github.io/msaimawan.dev/" target="_blank" rel="noopener noreferrer">
+<a href="https://msaimawan.freedev.app/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Portfolio%20Website-00c6ff?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 <a href="https://github.com/saimawan185" target="_blank" rel="noopener noreferrer">
