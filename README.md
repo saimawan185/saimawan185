@@ -14,7 +14,7 @@
 <a href="https://github.com/saimawan185" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://saimawan185.github.io/msaimawan.dev/" target="_blank" rel="noopener noreferrer">
+<a href="https://msaimawan.freedev.app" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Portfolio-00c6ff?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
