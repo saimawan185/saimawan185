@@ -14,7 +14,7 @@
 <a href="https://github.com/saimawan185" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://msaimawan.freedev.app" target="_blank" rel="noopener noreferrer">
+<a href="https://saimawan185.github.io/msaimawan.dev/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Portfolio-00c6ff?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
@@ -177,6 +177,15 @@ I'm a passionate **Software Engineer** crafting mobile solutions for both **Andr
 </tr>
 
 <tr>
+<td>💰 <b>Millionaire Trivia App</b></td>
+<td align="center"><i>Trivia & Quiz Game</i></td>
+<td align="center">
+<a href="https://play.google.com/store/apps/details?id=com.millionairegameapp.trivia" target="_blank" rel="noopener noreferrer"><img height="26" src="https://img.shields.io/badge/-Play%20Store-414141?style=flat-square&logo=googleplay&logoColor=00c6ff"/></a>
+<a href="https://apps.apple.com/us/app/millionaire-trivia-app/id6745175859" target="_blank" rel="noopener noreferrer"><img height="26" src="https://img.shields.io/badge/-App%20Store-414141?style=flat-square&logo=apple&logoColor=white"/></a>
+</td>
+</tr>
+
+<tr>
 <td>✨ <b>Quotes & Motivations</b></td>
 <td align="center"><i>Lifestyle</i></td>
 <td align="center">
@@ -247,7 +256,7 @@ I'm a passionate **Software Engineer** crafting mobile solutions for both **Andr
 
 <div align="center">
 
-<a href="https://msaimawan.freedev.app/" target="_blank" rel="noopener noreferrer">
+<a href="https://saimawan185.github.io/msaimawan.dev/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Portfolio%20Website-00c6ff?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 <a href="https://github.com/saimawan185" target="_blank" rel="noopener noreferrer">
