@@ -14,7 +14,7 @@
 <a href="https://github.com/saimawan185" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://saimawan185.github.io/msaimawan.dev/" target="_blank" rel="noopener noreferrer">
+<a href="https://msaimawan.freedev.app/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Portfolio-00c6ff?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
@@ -28,6 +28,8 @@ I'm a passionate **Software Engineer** crafting mobile solutions for both **Andr
 
 - 💻 Android & iOS App Developer
 - 📱 Flutter Developer
+- 🚀 Shipped **25+ apps** across client projects and my own products
+- 🌐 Designed & built my own [portfolio website](https://msaimawan.freedev.app/) end-to-end, myself
 - 📚 Continuous Learner
 - 💡 Coding Enthusiast
 - 🌍 Open for remote work & collaborations — let's build something amazing together!
@@ -256,7 +258,7 @@ I'm a passionate **Software Engineer** crafting mobile solutions for both **Andr
 
 <div align="center">
 
-<a href="https://saimawan185.github.io/msaimawan.dev/" target="_blank" rel="noopener noreferrer">
+<a href="https://msaimawan.freedev.app/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Portfolio%20Website-00c6ff?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 <a href="https://github.com/saimawan185" target="_blank" rel="noopener noreferrer">
