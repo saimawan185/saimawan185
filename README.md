@@ -45,6 +45,16 @@ I'm a passionate **Software Engineer** crafting mobile solutions for both **Andr
 
 ---
 
+### 💼 Experience
+
+| Role | Company | Duration |
+|---|---|---|
+| **Senior Mobile App Developer** | Scarmatrix, Lahore | March 2025 – Present |
+| **Flutter Developer** | BlueHorn Tech, Lahore | September 2023 – February 2025 |
+| **Flutter Developer** | Jotun Techs, Lahore | January 2022 – February 2023 |
+
+---
+
 ### 🎓 Education
 
 | Degree | Institution | Score | Years |
