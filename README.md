@@ -40,6 +40,7 @@ I'm a passionate **Software Engineer** crafting mobile solutions for both **Andr
 
 | Project | Description |
 |---|---|
+| 📍 **TrustPin** | Safety app for family & friends — share live locations with each other anytime |
 | 🧾 **ShopLedger** | Simple invoicing & customer management app for small businesses |
 | 🗣️ **Language Tutor App** | AI-assisted app for learning new languages through interactive lessons and practice |
 
@@ -97,6 +98,14 @@ I'm a passionate **Software Engineer** crafting mobile solutions for both **Andr
 <th align="left">App</th>
 <th align="center">Category</th>
 <th align="center">Get it on</th>
+</tr>
+
+<tr>
+<td>📍 <b>TruMeets</b></td>
+<td align="center"><i>Safe Meetings &amp; Live Location</i></td>
+<td align="center">
+<a href="https://apps.apple.com/us/app/trumeets/id6754884520" target="_blank" rel="noopener noreferrer"><img height="26" src="https://img.shields.io/badge/-App%20Store-414141?style=flat-square&logo=apple&logoColor=white"/></a>
+</td>
 </tr>
 
 <tr>
@@ -221,6 +230,7 @@ I'm a passionate **Software Engineer** crafting mobile solutions for both **Andr
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -268,6 +278,12 @@ I'm a passionate **Software Engineer** crafting mobile solutions for both **Andr
 
 <div align="center">
 
+<a href="https://msaimawan.freedev.app/Muhammad-Saim-Resume.pdf" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Download%20Resume%20PDF-0f6e8c?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+</a>
+<a href="https://msaimawan.freedev.app/resume.html" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/View%20Resume-2c5364?style=for-the-badge&logo=readme&logoColor=white"/>
+</a>
 <a href="https://msaimawan.freedev.app/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Portfolio%20Website-00c6ff?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
