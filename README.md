@@ -101,27 +101,29 @@ I'm a passionate **Software Engineer** crafting mobile solutions for both **Andr
 </tr>
 
 <tr>
-<td>📍 <b>TruMeets</b></td>
-<td align="center"><i>Safe Meetings &amp; Live Location</i></td>
-<td align="center">
-<a href="https://apps.apple.com/us/app/trumeets/id6754884520" target="_blank" rel="noopener noreferrer"><img height="26" src="https://img.shields.io/badge/-App%20Store-414141?style=flat-square&logo=apple&logoColor=white"/></a>
-</td>
-</tr>
-
-<tr>
-<td>💘 <b>FENG</b></td>
-<td align="center"><i>Dating App</i></td>
-<td align="center">
-<a href="https://play.google.com/store/apps/details?id=com.feng.io" target="_blank" rel="noopener noreferrer"><img height="26" src="https://img.shields.io/badge/-Play%20Store-414141?style=flat-square&logo=googleplay&logoColor=00c6ff"/></a>
-</td>
-</tr>
-
-<tr>
 <td>🌲 <b>WildVision</b></td>
 <td align="center"><i>Hunting App for NewZealand</i></td>
 <td align="center">
 <a href="https://play.google.com/store/apps/details?id=com.WildVision.wild_vision_app" target="_blank" rel="noopener noreferrer"><img height="26" src="https://img.shields.io/badge/-Play%20Store-414141?style=flat-square&logo=googleplay&logoColor=00c6ff"/></a>
 <a href="https://apps.apple.com/us/app/wildvision/id6751607406" target="_blank" rel="noopener noreferrer"><img height="26" src="https://img.shields.io/badge/-App%20Store-414141?style=flat-square&logo=apple&logoColor=white"/></a>
+</td>
+</tr>
+
+<tr>
+<td>🍔 <b>DooDelights</b></td>
+<td align="center"><i>Food Delivery</i></td>
+<td align="center">
+<a href="https://play.google.com/store/apps/details?id=com.doordelights.customer" target="_blank" rel="noopener noreferrer"><img height="26" src="https://img.shields.io/badge/-Play%20Store-414141?style=flat-square&logo=googleplay&logoColor=00c6ff"/></a>
+<a href="https://apps.apple.com/us/app/doordelights/id6737221336" target="_blank" rel="noopener noreferrer"><img height="26" src="https://img.shields.io/badge/-App%20Store-414141?style=flat-square&logo=apple&logoColor=white"/></a>
+</td>
+</tr>
+
+<tr>
+<td>🎥 <b>SyfPlus</b></td>
+<td align="center"><i>Social Media</i></td>
+<td align="center">
+<a href="https://play.google.com/store/apps/details?id=com.sauti.faraja" target="_blank" rel="noopener noreferrer"><img height="26" src="https://img.shields.io/badge/-Play%20Store-414141?style=flat-square&logo=googleplay&logoColor=00c6ff"/></a>
+<a href="https://apps.apple.com/us/app/syf-plus/id6770406459" target="_blank" rel="noopener noreferrer"><img height="26" src="https://img.shields.io/badge/-App%20Store-414141?style=flat-square&logo=apple&logoColor=white"/></a>
 </td>
 </tr>
 
@@ -144,29 +146,10 @@ I'm a passionate **Software Engineer** crafting mobile solutions for both **Andr
 </tr>
 
 <tr>
-<td>🍔 <b>DoorDelights</b></td>
-<td align="center"><i>Food Delivery</i></td>
+<td>💘 <b>Feng</b></td>
+<td align="center"><i>Dating App</i></td>
 <td align="center">
-<a href="https://play.google.com/store/apps/details?id=com.doordelights.customer" target="_blank" rel="noopener noreferrer"><img height="26" src="https://img.shields.io/badge/-Play%20Store-414141?style=flat-square&logo=googleplay&logoColor=00c6ff"/></a>
-<a href="https://apps.apple.com/us/app/doordelights/id6737221336" target="_blank" rel="noopener noreferrer"><img height="26" src="https://img.shields.io/badge/-App%20Store-414141?style=flat-square&logo=apple&logoColor=white"/></a>
-</td>
-</tr>
-
-<tr>
-<td>🚗 <b>Smooth Drop</b></td>
-<td align="center"><i>Ride-Hailing</i></td>
-<td align="center">
-<a href="https://play.google.com/store/apps/details?id=com.smooth.drop" target="_blank" rel="noopener noreferrer"><img height="26" src="https://img.shields.io/badge/-Play%20Store-414141?style=flat-square&logo=googleplay&logoColor=00c6ff"/></a>
-<a href="https://apps.apple.com/us/app/smoothdrop-request-a-ride/id6754243436" target="_blank" rel="noopener noreferrer"><img height="26" src="https://img.shields.io/badge/-App%20Store-414141?style=flat-square&logo=apple&logoColor=white"/></a>
-</td>
-</tr>
-
-<tr>
-<td>🎥 <b>SyfPlus</b></td>
-<td align="center"><i>Social Media</i></td>
-<td align="center">
-<a href="https://play.google.com/store/apps/details?id=com.sauti.faraja" target="_blank" rel="noopener noreferrer"><img height="26" src="https://img.shields.io/badge/-Play%20Store-414141?style=flat-square&logo=googleplay&logoColor=00c6ff"/></a>
-<a href="https://apps.apple.com/us/app/syf-plus/id6770406459" target="_blank" rel="noopener noreferrer"><img height="26" src="https://img.shields.io/badge/-App%20Store-414141?style=flat-square&logo=apple&logoColor=white"/></a>
+<a href="https://play.google.com/store/apps/details?id=com.feng.io" target="_blank" rel="noopener noreferrer"><img height="26" src="https://img.shields.io/badge/-Play%20Store-414141?style=flat-square&logo=googleplay&logoColor=00c6ff"/></a>
 </td>
 </tr>
 
@@ -198,14 +181,6 @@ I'm a passionate **Software Engineer** crafting mobile solutions for both **Andr
 </tr>
 
 <tr>
-<td>🛒 <b>Kalam Dawat</b></td>
-<td align="center"><i>Local E-Commerce App</i></td>
-<td align="center">
-<a href="https://play.google.com/store/apps/details?id=com.kalamdawat.kalam_dawaat" target="_blank" rel="noopener noreferrer"><img height="26" src="https://img.shields.io/badge/-Play%20Store-414141?style=flat-square&logo=googleplay&logoColor=00c6ff"/></a>
-</td>
-</tr>
-
-<tr>
 <td>💰 <b>Millionaire Trivia App</b></td>
 <td align="center"><i>Trivia & Quiz Game</i></td>
 <td align="center">
@@ -219,6 +194,31 @@ I'm a passionate **Software Engineer** crafting mobile solutions for both **Andr
 <td align="center"><i>Lifestyle</i></td>
 <td align="center">
 <a href="https://play.google.com/store/apps/details?id=com.jokerdiary.joker_diary" target="_blank" rel="noopener noreferrer"><img height="26" src="https://img.shields.io/badge/-Play%20Store-414141?style=flat-square&logo=googleplay&logoColor=00c6ff"/></a>
+</td>
+</tr>
+
+<tr>
+<td>🚗 <b>Smooth Drop</b></td>
+<td align="center"><i>Ride-Hailing</i></td>
+<td align="center">
+<a href="https://play.google.com/store/apps/details?id=com.smooth.drop" target="_blank" rel="noopener noreferrer"><img height="26" src="https://img.shields.io/badge/-Play%20Store-414141?style=flat-square&logo=googleplay&logoColor=00c6ff"/></a>
+<a href="https://apps.apple.com/us/app/smoothdrop-request-a-ride/id6754243436" target="_blank" rel="noopener noreferrer"><img height="26" src="https://img.shields.io/badge/-App%20Store-414141?style=flat-square&logo=apple&logoColor=white"/></a>
+</td>
+</tr>
+
+<tr>
+<td>📍 <b>TruMeets</b></td>
+<td align="center"><i>Safe Meetings &amp; Live Location</i></td>
+<td align="center">
+<a href="https://apps.apple.com/us/app/trumeets/id6754884520" target="_blank" rel="noopener noreferrer"><img height="26" src="https://img.shields.io/badge/-App%20Store-414141?style=flat-square&logo=apple&logoColor=white"/></a>
+</td>
+</tr>
+
+<tr>
+<td>🛒 <b>Kalam Dawat</b></td>
+<td align="center"><i>Local E-Commerce App</i></td>
+<td align="center">
+<a href="https://play.google.com/store/apps/details?id=com.kalamdawat.kalam_dawaat" target="_blank" rel="noopener noreferrer"><img height="26" src="https://img.shields.io/badge/-Play%20Store-414141?style=flat-square&logo=googleplay&logoColor=00c6ff"/></a>
 </td>
 </tr>
 
@@ -277,7 +277,8 @@ I'm a passionate **Software Engineer** crafting mobile solutions for both **Andr
 ### 📈 Contribution Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saimawan185&theme=react-dark&hide_border=true&bg_color=0d1117&color=00c6ff&line=00c6ff&point=ffffff&area=true" width="90%" alt="Contribution activity graph"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saimawan185&theme=github_dark" height="200" alt="GitHub profile details"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saimawan185&theme=github_dark&utcOffset=5" height="200" alt="Productive time contribution graph"/>
 </div>
 
 ---
