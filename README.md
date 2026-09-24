@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Muhammad%20Saim&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Mobile%20App%20Developer&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Muhammad%20Saim&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Mobile%20App%20Developer&descAlignY=58&descSize=20" width="100%"/>
 
 <a href="https://www.linkedin.com/in/muhammad-saim-5bab731bb/" target="_blank" rel="noopener noreferrer">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Flutter+%26+Mobile+App+Developer;Android+%7C+iOS+%7C+Cross-Platform;Turning+Ideas+Into+Real+Apps+%F0%9F%9A%80;Open+for+Remote+Work+%26+Collaborations!&font=Fira+Code&center=true&width=600&height=50&color=00C6FF&vCenter=true&size=22&pause=1000" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Flutter+Mobile+App+Developer;Android+%7C+iOS+%7C+25%2B+Apps+Shipped;Open+for+Remote+Work+%26+Freelance&font=Fira+Code&center=true&width=600&height=50&color=00C6FF&vCenter=true&size=22&pause=1000" />
 </a>
 
 <br/>
@@ -24,15 +24,13 @@
 
 ### 👋 About Me
 
-I'm a passionate **Software Engineer** crafting mobile solutions for both **Android and iOS**. I love turning ideas into robust, user-friendly apps that people actually enjoy using.
+I'm a **Flutter Mobile App Developer** with **3+ years** of experience building production apps for **Android and iOS**. I ship end-to-end — from UI and architecture to App Store & Play Store release.
 
-- 💻 Android & iOS App Developer
-- 📱 Flutter Developer
+- 📱 Flutter · Dart · Android · iOS
 - 🚀 Shipped **25+ apps** across client projects and my own products
-- 🌐 Designed & built my own [portfolio website](https://msaimawan.freedev.app/) end-to-end, myself
-- 📚 Continuous Learner
-- 💡 Coding Enthusiast
-- 🌍 Open for remote work & collaborations — let's build something amazing together!
+- 🏅 **Gold Medalist** — BS Computer Science, University of South Asia
+- 🌐 Built my [portfolio website](https://msaimawan.freedev.app/) end-to-end
+- 🌍 Open for remote work, freelance, and collaborations
 
 ---
 
@@ -42,7 +40,7 @@ I'm a passionate **Software Engineer** crafting mobile solutions for both **Andr
 |---|---|
 | 📍 **TrustPin** | Safety app for family & friends — share live locations with each other anytime |
 | 🧾 **ShopLedger** | Simple invoicing & customer management app for small businesses |
-| 🗣️ **Language Tutor App** | AI-assisted app for learning new languages through interactive lessons and practice |
+| 🗣️ **Fluencyzone: Tutor App** | AI-assisted language learning — [Play Store](https://play.google.com/store/apps/details?id=com.med.language_tutor) · App Store coming |
 
 ---
 
@@ -50,7 +48,7 @@ I'm a passionate **Software Engineer** crafting mobile solutions for both **Andr
 
 | Role | Company | Duration |
 |---|---|---|
-| **Mobile App Developer** | Scarmatrix, Lahore | March 2025 – Present |
+| **Flutter Developer** | Scarmatrix, Lahore | March 2025 – Present |
 | **Flutter Developer** | BlueHorn Tech, Lahore | September 2023 – February 2025 |
 | **Flutter Developer** | Jotun Techs, Lahore | January 2022 – February 2023 |
 
@@ -60,7 +58,7 @@ I'm a passionate **Software Engineer** crafting mobile solutions for both **Andr
 
 | Degree | Institution | Score | Years |
 |---|---|---|---|
-| 🏅 **BS Computer Science** — *Gold Medalist* | University of South Asia, Lahore | CGPA 3.83 / 4.0 | 2019 – 2023 |
+| 🏅 **BS Computer Science** — *Vice Chancellor Gold Medalist (Convocation 2024)* | University of South Asia, Lahore | CGPA 3.83 / 4.0 | 2019 – 2023 |
 | **F.Sc Pre-Engineering** | Punjab College, Lahore | 73.82% | 2017 – 2019 |
 | **Matriculation in Computer Science** | M.A Model High School | 82.27% | 2015 – 2017 |
 
@@ -70,6 +68,9 @@ I'm a passionate **Software Engineer** crafting mobile solutions for both **Andr
 
 <div align="center">
 
+<a href="https://play.google.com/store/apps/details?id=com.med.language_tutor" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Fluencyzone%3A%20Tutor%20App-Google%20Play-00c6ff?style=for-the-badge&logo=googleplay&logoColor=white"/>
+</a>
 <a href="https://play.google.com/store/apps/details?id=com.tetratech.agecalculator.birthdaytracker" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Age%20Calculator-Google%20Play-2c5364?style=for-the-badge&logo=googleplay&logoColor=white"/>
 </a>
@@ -111,7 +112,7 @@ I'm a passionate **Software Engineer** crafting mobile solutions for both **Andr
 
 <tr>
 <td>🍔 <b>DooDelights</b></td>
-<td align="center"><i>Food Delivery</i></td>
+<td align="center"><i>Food, Parcel &amp; Ride App — Sri Lanka</i></td>
 <td align="center">
 <a href="https://play.google.com/store/apps/details?id=com.doordelights.customer" target="_blank" rel="noopener noreferrer"><img height="26" src="https://img.shields.io/badge/-Play%20Store-414141?style=flat-square&logo=googleplay&logoColor=00c6ff"/></a>
 <a href="https://apps.apple.com/us/app/doordelights/id6737221336" target="_blank" rel="noopener noreferrer"><img height="26" src="https://img.shields.io/badge/-App%20Store-414141?style=flat-square&logo=apple&logoColor=white"/></a>
@@ -199,7 +200,7 @@ I'm a passionate **Software Engineer** crafting mobile solutions for both **Andr
 
 <tr>
 <td>🚗 <b>Smooth Drop</b></td>
-<td align="center"><i>Ride-Hailing</i></td>
+<td align="center"><i>Ride-Hailing · APIs, Firebase &amp; Maps</i></td>
 <td align="center">
 <a href="https://play.google.com/store/apps/details?id=com.smooth.drop" target="_blank" rel="noopener noreferrer"><img height="26" src="https://img.shields.io/badge/-Play%20Store-414141?style=flat-square&logo=googleplay&logoColor=00c6ff"/></a>
 <a href="https://apps.apple.com/us/app/smoothdrop-request-a-ride/id6754243436" target="_blank" rel="noopener noreferrer"><img height="26" src="https://img.shields.io/badge/-App%20Store-414141?style=flat-square&logo=apple&logoColor=white"/></a>
@@ -302,7 +303,7 @@ I'm a passionate **Software Engineer** crafting mobile solutions for both **Andr
 <a href="https://www.linkedin.com/in/muhammad-saim-5bab731bb/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://www.instagram.com/msaimawan/" target="_blank" rel="noopener noreferrer">
+<a href="https://www.instagram.com/codeswithmsaimawan/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 <a href="https://www.facebook.com/codeswithmsaimawan" target="_blank" rel="noopener noreferrer">
@@ -316,9 +317,6 @@ I'm a passionate **Software Engineer** crafting mobile solutions for both **Andr
 </a>
 <a href="https://www.fiverr.com/saimawan185" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/>
-</a>
-<a href="https://www.upwork.com/freelancers/~0143f7baa14a5e2bc8?mp_source=share" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/>
 </a>
 <a href="mailto:awanmsaim182@gmail.com" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
