@@ -40,7 +40,6 @@ I'm a **Flutter Mobile App Developer** with **3+ years** of experience building 
 |---|---|
 | 📍 **TrustPin** | Safety app for family & friends — share live locations with each other anytime |
 | 🧾 **ShopLedger** | Simple invoicing & customer management app for small businesses |
-| 🗣️ **Fluencyzone: Tutor App** | AI-assisted language learning — [Play Store](https://play.google.com/store/apps/details?id=com.med.language_tutor) · App Store coming |
 
 ---
 
@@ -68,9 +67,6 @@ I'm a **Flutter Mobile App Developer** with **3+ years** of experience building 
 
 <div align="center">
 
-<a href="https://play.google.com/store/apps/details?id=com.med.language_tutor" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Fluencyzone%3A%20Tutor%20App-Google%20Play-00c6ff?style=for-the-badge&logo=googleplay&logoColor=white"/>
-</a>
 <a href="https://play.google.com/store/apps/details?id=com.tetratech.agecalculator.birthdaytracker" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Age%20Calculator-Google%20Play-2c5364?style=for-the-badge&logo=googleplay&logoColor=white"/>
 </a>
@@ -99,6 +95,15 @@ I'm a **Flutter Mobile App Developer** with **3+ years** of experience building 
 <th align="left">App</th>
 <th align="center">Category</th>
 <th align="center">Get it on</th>
+</tr>
+
+<tr>
+<td>🗣️ <b>Fluencyzone: Tutor App</b></td>
+<td align="center"><i>Education · AI Language Learning</i></td>
+<td align="center">
+<a href="https://play.google.com/store/apps/details?id=com.med.language_tutor" target="_blank" rel="noopener noreferrer"><img height="26" src="https://img.shields.io/badge/-Play%20Store-414141?style=flat-square&logo=googleplay&logoColor=00c6ff"/></a>
+<span><i>App Store coming</i></span>
+</td>
 </tr>
 
 <tr>
