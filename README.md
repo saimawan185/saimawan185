@@ -102,7 +102,7 @@ I'm a **Flutter Mobile App Developer** with **3+ years** of experience building 
 <td align="center"><i>Education · AI Language Learning</i></td>
 <td align="center">
 <a href="https://play.google.com/store/apps/details?id=com.med.language_tutor" target="_blank" rel="noopener noreferrer"><img height="26" src="https://img.shields.io/badge/-Play%20Store-414141?style=flat-square&logo=googleplay&logoColor=00c6ff"/></a>
-<span><i>App Store coming</i></span>
+<a href="https://apps.apple.com/us/app/fluencyzone-tutoring-app/id6811983751" target="_blank" rel="noopener noreferrer"><img height="26" src="https://img.shields.io/badge/-App%20Store-414141?style=flat-square&logo=apple&logoColor=white"/></a>
 </td>
 </tr>
 
