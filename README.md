@@ -272,7 +272,7 @@ I'm a **Flutter Mobile App Developer** with **3+ years** of experience building 
 <div align="center">
 
 <img src="https://github-stats-extended.vercel.app/api?username=saimawan185&show_icons=true&theme=tokyonight&hide_border=true&title_color=00c6ff&icon_color=00c6ff&text_color=ffffff&bg_color=0d1117" width="49%" alt="Muhammad Saim GitHub stats"/>
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=saimawan185&layout=compact&theme=tokyonight&hide_border=true&title_color=00c6ff&text_color=ffffff&bg_color=0d1117" width="41%" alt="Top languages"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=saimawan185&layout=compact&theme=tokyonight&hide_border=true&title_color=00c6ff&text_color=ffffff&bg_color=0d1117&hide=php,blade,html,css&langs_count=6" width="41%" alt="Top languages"/>
 
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=saimawan185&theme=tokyonight&hide_border=true&background=0D1117&stroke=00c6ff&ring=00c6ff&fire=00c6ff&currStreakLabel=00c6ff" width="70%" alt="GitHub streak stats"/>
 
