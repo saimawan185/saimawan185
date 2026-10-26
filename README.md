@@ -44,8 +44,8 @@ I'm a **Flutter Mobile App Developer** with **3+ years** of experience building 
 
 | App | Platform | Link |
 |---|---|---|
+| **Scar ERP Software** | Web + Mobile | [ERP for Pakistani businesses](https://scar-erp-software.web.app/) |
 | **ShopLedger** | Google Play | [Invoicing & customer management](https://play.google.com/store/apps/details?id=com.shopledger.app) |
-| **Fluencyzone: Tutor App** | Play + App Store | [AI language learning](https://apps.apple.com/us/app/fluencyzone-tutoring-app/id6811983751) |
 
 ---
 
@@ -104,6 +104,14 @@ I'm a **Flutter Mobile App Developer** with **3+ years** of experience building 
 <th align="left">App</th>
 <th align="center">Category</th>
 <th align="center">Get it on</th>
+</tr>
+
+<tr>
+<td>🏢 <b>Scar ERP Software</b></td>
+<td align="center"><i>Web + Mobile ERP for Pakistani Businesses</i></td>
+<td align="center">
+<a href="https://scar-erp-software.web.app/" target="_blank" rel="noopener noreferrer"><img height="26" src="https://img.shields.io/badge/-Live%20Web%20App-414141?style=flat-square&logo=googlechrome&logoColor=00c6ff"/></a>
+</td>
 </tr>
 
 <tr>
