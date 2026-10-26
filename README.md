@@ -39,7 +39,13 @@ I'm a **Flutter Mobile App Developer** with **3+ years** of experience building 
 | Project | Description |
 |---|---|
 | 📍 **TrustPin** | Safety app for family & friends — share live locations with each other anytime |
-| 🧾 **ShopLedger** | Simple invoicing & customer management app for small businesses |
+
+### 🧾 Featured Live Apps
+
+| App | Platform | Link |
+|---|---|---|
+| **ShopLedger** | Google Play | [Invoicing & customer management](https://play.google.com/store/apps/details?id=com.shopledger.app) |
+| **Fluencyzone: Tutor App** | Play + App Store | [AI language learning](https://apps.apple.com/us/app/fluencyzone-tutoring-app/id6811983751) |
 
 ---
 
@@ -67,6 +73,9 @@ I'm a **Flutter Mobile App Developer** with **3+ years** of experience building 
 
 <div align="center">
 
+<a href="https://play.google.com/store/apps/details?id=com.shopledger.app" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/ShopLedger-Google%20Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white"/>
+</a>
 <a href="https://play.google.com/store/apps/details?id=com.tetratech.agecalculator.birthdaytracker" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Age%20Calculator-Google%20Play-2c5364?style=for-the-badge&logo=googleplay&logoColor=white"/>
 </a>
@@ -298,6 +307,9 @@ I'm a **Flutter Mobile App Developer** with **3+ years** of experience building 
 </a>
 <a href="https://msaimawan.freedev.app/resume.html" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/View%20Resume-2c5364?style=for-the-badge&logo=readme&logoColor=white"/>
+</a>
+<a href="https://msaimawan.freedev.app/cover-letter.html" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Cover%20Letter-2c5364?style=for-the-badge&logo=readme&logoColor=white"/>
 </a>
 <a href="https://msaimawan.freedev.app/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Portfolio%20Website-00c6ff?style=for-the-badge&logo=googlechrome&logoColor=white"/>
